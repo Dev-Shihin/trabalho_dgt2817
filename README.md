@@ -1,0 +1,3 @@
+# Trabalho Prático - DGT2817
+
+#### Este documento apresenta a documentação do Trabalho Prático da disciplina DGTE317 - Lógica, Algoritmos e Programação de Computadores. O objetivo é demonstrar o aprendizado em estruturas condicionais (if, else, elif), estruturas de repetição (for, while), funções e seus argumentos em Python, culminando na refatoração de uma calculadora que utiliza esses conceitos. As microatividades preparatórias e o trabalho prático final foram desenvolvidos utilizando a IDE VS Code e o interpretador Python, conforme orientações fornecidas.
