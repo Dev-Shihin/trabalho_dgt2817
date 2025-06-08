@@ -1,3 +1,11 @@
-# Trabalho Prático - DGT2817 Lógica, Algoritmos e Programação de Computadores
+# Trabalho Prático DGTE317
 
-#### Este documento apresenta a documentação do Trabalho Prático da disciplina DGTE317 - Lógica, Algoritmos e Programação de Computadores. O objetivo é demonstrar o aprendizado em estruturas condicionais (if, else, elif), estruturas de repetição (for, while), funções e seus argumentos em Python, culminando na refatoração de uma calculadora que utiliza esses conceitos. As microatividades preparatórias e o trabalho prático final foram desenvolvidos utilizando a IDE VS Code e o interpretador Python, conforme orientações fornecidas.
+Este repositório contém o Trabalho Prático da disciplina DGTE317 - Lógica, Algoritmos e Programação de Computadores. Inclui:
+- Scripts Python das microatividades (1 a 6).
+- Script da calculadora refatorada (`calculadora_v2.py`).
+- Documentação em PDF (`trabalho_pratico_documentacao.pdf`).
+
+## Como Executar
+1. Instale o Python e o VS Code.
+2. Clone o repositório: `git clone https://github.com/Dev-Shihin/trabalho_dgt2817`
+3. Execute os scripts
